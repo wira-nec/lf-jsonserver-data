@@ -1,0 +1,348 @@
+{
+  "WeeklyActivityData": [
+    {
+      "id": 0,
+      "activityDay": 0,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": true,
+          "availablePlaces": 0
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": true,
+          "availablePlaces": 9
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": true,
+          "availablePlaces": 9
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": false,
+          "availablePlaces": 0
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": true,
+          "availablePlaces": 9
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "activityDay": 1,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "activityDay": 2,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "activityDay": 3,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": false,
+          "isLoading": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": false,
+          "isLoading": true,
+          "availablePlaces": 10
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": false,
+          "isLoading": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": true,
+          "availablePlaces": 9
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "isLoading": true,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "activityDay": 4,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "activityDay": 5,
+      "activities": [
+        {
+          "id": 0,
+          "timeSpan": "09:00-10:30",
+          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 1,
+          "timeSpan": "10:30-11:00",
+          "activity": "Lady 55 / leden Fitnessbegeleiding",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 2,
+          "timeSpan": "17:00-19:00",
+          "activity": "Fitnessbegeleiding/intake sportschema",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 3,
+          "timeSpan": "18:30-19:15",
+          "activity": "Steps (1e groep 12 personen)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 4,
+          "timeSpan": "19:15-20:00",
+          "activity": "Spinning",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 5,
+          "timeSpan": "19:30-20:15",
+          "activity": "Steps (2e groep)",
+          "isActive": false,
+          "availablePlaces": 10
+        },
+        {
+          "id": 6,
+          "timeSpan": "20:30-21:30",
+          "activity": "Zumba",
+          "isActive": false,
+          "availablePlaces": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "activityDay": 6,
+      "activities": [
+        {
+          "id": 7,
+          "activity": "gesloten"
+        }
+      ]
+    }
+  ]
+}
