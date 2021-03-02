@@ -13,52 +13,12 @@
           "location": "Kanalen Eiland"
         },
         {
-          "id": 1,
-          "timeSpan": "10:30-11:00",
-          "activity": "Lady 55 / leden Fitnessbegeleiding",
-          "isActive": true,
-          "availablePlaces": 9,
-          "location": "Kanalen Eiland"
-        },
-        {
-          "id": 2,
-          "timeSpan": "17:00-19:00",
-          "activity": "Fitnessbegeleiding/intake sportschema",
-          "isActive": true,
-          "availablePlaces": 9,
-          "location": "Kanalen Eiland"
-        },
-        {
           "id": 3,
-          "timeSpan": "18:30-19:15",
+          "timeSpan": "10:00-11:00",
           "activity": "Zwemmen",
           "isActive": false,
           "availablePlaces": 0,
           "location": "Kwakel"
-        },
-        {
-          "id": 4,
-          "timeSpan": "19:15-20:00",
-          "activity": "Overvecht",
-          "isActive": true,
-          "availablePlaces": 9,
-          "location": "Kanalen Eiland"
-        },
-        {
-          "id": 5,
-          "timeSpan": "19:30-20:15",
-          "activity": "Steps (2e groep)",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
-        },
-        {
-          "id": 6,
-          "timeSpan": "20:30-21:30",
-          "activity": "Zumba",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Overvecht"
         }
       ]
     },
@@ -129,14 +89,6 @@
       "activityDay": 2,
       "activities": [
         {
-          "id": 0,
-          "timeSpan": "09:00-10:30",
-          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
-        },
-        {
           "id": 1,
           "timeSpan": "10:30-11:00",
           "activity": "Lady 55 / leden Fitnessbegeleiding",
@@ -167,14 +119,6 @@
           "isActive": false,
           "availablePlaces": 10,
           "location": "Overvecht"
-        },
-        {
-          "id": 5,
-          "timeSpan": "19:30-20:15",
-          "activity": "Steps (2e groep)",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
         },
         {
           "id": 6,
@@ -273,22 +217,6 @@
           "location": "Kanalen Eiland"
         },
         {
-          "id": 2,
-          "timeSpan": "17:00-19:00",
-          "activity": "Fitnessbegeleiding/intake sportschema",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Overvecht"
-        },
-        {
-          "id": 3,
-          "timeSpan": "18:30-19:15",
-          "activity": "Steps (1e groep 12 personen)",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
-        },
-        {
           "id": 4,
           "timeSpan": "19:15-20:00",
           "activity": "Spinning",
@@ -318,22 +246,6 @@
       "id": 5,
       "activityDay": 5,
       "activities": [
-        {
-          "id": 0,
-          "timeSpan": "09:00-10:30",
-          "activity": "Lady 55 / leden/ bodyshape/ Yoga/Pilates",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
-        },
-        {
-          "id": 1,
-          "timeSpan": "10:30-11:00",
-          "activity": "Lady 55 / leden Fitnessbegeleiding",
-          "isActive": false,
-          "availablePlaces": 10,
-          "location": "Kanalen Eiland"
-        },
         {
           "id": 2,
           "timeSpan": "17:00-19:00",
